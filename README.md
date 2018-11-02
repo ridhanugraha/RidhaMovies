@@ -1,2 +1,1 @@
-# RidhaMovies
-UTS Pemrograman Aplikasi Mobile
+# Lovi Handoko
